@@ -19,3 +19,4 @@ ROADMAP.md
 
 # Local tooling scratch directory (not part of the project)
 .gstack/
+.claude/worktrees/
