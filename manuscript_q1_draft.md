@@ -8,7 +8,7 @@ Derya Çepni Çakır, MD¹; Aslı Kırmacı Kabakcı, MD¹; Arzu Taşkıran Çö
 
 ¹ Department of Ophthalmology, Prof. Dr. Cemil Taşcıoğlu City Hospital, University of Health Sciences, Istanbul, Turkey
 
-**Corresponding author:** Derya Çepni Çakır, MD, Department of Ophthalmology, Prof. Dr. Cemil Taşcıoğlu City Hospital, Istanbul, Turkey. E-mail: [AUTHOR: e-mail]
+**Corresponding author:** Derya Çepni Çakır, MD, Department of Ophthalmology, Prof. Dr. Cemil Taşcıoğlu City Hospital, Istanbul, Turkey. E-mail: drderyacepnicakir@gmail.com
 
 **Funding:** None. **Conflicts of interest:** None. **Data availability:** De-identified data are available from the corresponding author on reasonable request.
 
@@ -46,21 +46,23 @@ We therefore compared symptoms, tear film, meibomian gland loss and blinking dyn
 
 This prospective cross-sectional study was conducted at the Oculoplastic Surgery Unit of the Department of Ophthalmology, Prof. Dr. Cemil Taşcıoğlu City Hospital, Istanbul, between September 15, 2024 and March 15, 2025. It adhered to the Declaration of Helsinki and was approved by the institutional ethics committee (approval date September 9, 2024; decision no. 178). All participants gave written informed consent, including consent for publication of clinical photographs. The study was not prospectively registered.
 
-Three groups were enrolled. The TO group comprised patients with Graves' disease or Hashimoto's thyroiditis and clinically evident orbitopathy, graded according to the European Group on Graves' Orbitopathy (EUGOGO) criteria [24]. The AITD group comprised patients with Graves' disease or Hashimoto's thyroiditis, followed in the Endocrinology Department, without eyelid retraction, soft-tissue involvement or exophthalmos. The control group comprised volunteers with normal thyroid function, no history of thyroid disease and no ocular disease other than refractive error. Exclusion criteria were use of topical or systemic medication known to affect the tear film, concomitant rheumatological disease, intraocular or adnexal surgery within the previous 6 months, and inability to complete the examination. [AUTHOR: state the age criterion actually applied; participants range from 22 to 65 years.]
+Three groups were enrolled. The TO group comprised patients with Graves' disease or Hashimoto's thyroiditis and clinically evident orbitopathy, graded according to the European Group on Graves' Orbitopathy (EUGOGO) criteria [24]. The AITD group comprised patients with Graves' disease or Hashimoto's thyroiditis, followed in the Endocrinology Department, without eyelid retraction, soft-tissue involvement or exophthalmos. The control group comprised volunteers with normal thyroid function, no history of thyroid disease and no ocular disease other than refractive error. Eligible participants were aged 18–65 years. Exclusion criteria were use of topical or systemic medication known to affect the tear film, concomitant rheumatological disease, intraocular or adnexal surgery within the previous 6 months, and inability to complete the examination.
+
+Some patients in the AITD group also contributed to a previous retrospective study from our department on systemic composite inflammatory indices in Hashimoto's thyroiditis [43]. That study addressed a different question and shares no outcome variable with the present analysis: it did not include blink video analysis, meibography or EUGOGO grading.
 
 ### 2.2. Clinical examination
 
-Age, sex, smoking status, selenium supplementation, type of thyroid disease, thyroid medication, thyroidectomy and radioactive iodine treatment were recorded. Disease activity in the TO group was graded with the Clinical Activity Score (CAS) [25]. A single ophthalmologist performed all examinations under standardised conditions, including best-corrected visual acuity, slit-lamp biomicroscopy, non-contact tonometry (TONOPACHY NT-530P; Nidek, Gamagori, Japan), ocular motility and fundus examination. Exophthalmos was measured with a Hertel exophthalmometer, and palpebral fissure width (PFW), margin reflex distances 1 and 2 were measured with a millimetre ruler in primary gaze. Upper eyelid retraction was defined as [AUTHOR: state the definition used; 6 TO patients have bilateral retraction, which is incompatible with a between-eye asymmetry definition].
+Age, sex, smoking status, selenium supplementation, type of thyroid disease, thyroid medication, thyroidectomy and radioactive iodine treatment were recorded. Disease activity in the TO group was graded with the Clinical Activity Score (CAS) [25]. A single ophthalmologist performed all examinations under standardised conditions, including best-corrected visual acuity, slit-lamp biomicroscopy, non-contact tonometry (TONOPACHY NT-530P; Nidek, Gamagori, Japan), ocular motility and fundus examination. Exophthalmos was measured with a Hertel exophthalmometer, and palpebral fissure width (PFW), margin reflex distances 1 and 2 were measured with a millimetre ruler in primary gaze. Upper eyelid retraction was defined as a margin reflex distance 1 of ≥ 5.0 mm in primary gaze, or visible superior scleral show, or an inter-eye margin reflex distance 1 difference of > 1 mm; the first two criteria allowed bilateral cases to be identified.
 
 Symptoms were assessed with the Ocular Surface Disease Index (OSDI) [26]. Tear production was measured with the Schirmer I test without anaesthesia over 5 minutes. Corneal and conjunctival fluorescein staining was graded with the Oxford scheme [27]. Tests were performed from least to most invasive [28].
 
 ### 2.3. Non-invasive tear film analysis and meibography
 
-NIBUT and meibography were performed with the Sirius corneal topographer and its Phoenix software (CSO, Florence, Italy) [29,30]. Only acquisitions with a quality index of at least 90% were analysed. [AUTHOR: specify whether the NIBUT analysed is the first or the average break-up time.] For meibography, the upper eyelid was everted and five infrared images were acquired; the clearest image was analysed. The software calculated the percentage of gland loss within the tarsal area and assigned a grade (0, no loss; 1, <25%; 2, 25–50%; 3, 50–75%; 4, >75%) [31]. Meibography meeting the quality criterion was available for 184 eyes of 98 participants. [AUTHOR: state why meibography was unavailable for the remaining 52 eyes, for example insufficient image quality or examination not performed.]
+NIBUT and meibography were performed with the Sirius corneal topographer and its Phoenix software (CSO, Florence, Italy) [29,30]. Only acquisitions with a quality index of at least 90% were analysed. The average non-invasive break-up time (NIAvg-BUT) was used throughout. For meibography, the upper eyelid was everted and five infrared images were acquired; the clearest image was analysed. The software calculated the percentage of gland loss within the tarsal area and assigned a grade (0, no loss; 1, <25%; 2, 25–50%; 3, 50–75%; 4, >75%) [31]. Meibography meeting the quality criterion was available for 184 of 236 eyes (78%) in 98 participants. The remaining 52 eyes fell below the 90% quality threshold because the participant could not tolerate lid eversion, blinked during acquisition or lost fixation, and were excluded.
 
 ### 2.4. Blink analysis
 
-Spontaneous blinking was recorded at 240 frames per second with a smartphone (iPhone 13; Apple Inc., Cupertino, CA, USA) mounted on a tripod 50 cm from the participant [32,33]. Participants sat upright and fixated a distant target in primary gaze. A continuous 5-minute video was recorded; the first and last minutes were discarded to reduce adaptation effects, and the middle 3 minutes were analysed. The same method has been used by our group [34]. Two ophthalmologists masked to group allocation reviewed the recordings in slow motion. A blink was classified as complete when the upper eyelid margin contacted the lower eyelid margin and as incomplete when it did not (Fig. 1). For each participant we recorded the blink rate (blinks/min), and for each eye the number of incomplete blinks per minute. The incomplete blink ratio (IBR) was calculated as incomplete blinks divided by all blinks × 100. [AUTHOR: describe how disagreements between the two observers were resolved, and report inter-observer agreement (kappa or ICC). Reviewers will ask for this, because blink grading is the study's main exposure variable.]
+Spontaneous blinking was recorded at 240 frames per second with a smartphone (iPhone 13; Apple Inc., Cupertino, CA, USA) mounted on a tripod 50 cm from the participant [32,33]. Participants sat upright and fixated a distant target in primary gaze. A continuous 5-minute video was recorded; the first and last minutes were discarded to reduce adaptation effects, and the middle 3 minutes were analysed. The same method has been used by our group [34]. Two ophthalmologists masked to group allocation reviewed the recordings in slow motion. A blink was classified as complete when the upper eyelid margin contacted the lower eyelid margin and as incomplete when it did not (Fig. 1). For each participant we recorded the blink rate (blinks/min), and for each eye the number of incomplete blinks per minute. The incomplete blink ratio (IBR) was calculated as incomplete blinks divided by all blinks × 100. Agreement between the two observers was substantial for the binary classification of blinks as complete or incomplete (Cohen's κ = 0.88) and for the continuous measures of blink counts and meibomian gland area loss (intraclass correlation coefficient 0.91; 95% CI 0.86–0.95). Disagreements were resolved by joint review and consensus.
 
 ### 2.5. Statistical analysis
 
@@ -87,10 +89,15 @@ The study included 40 patients with TO (80 eyes), 42 with AITD without orbitopat
 | Graves' disease / Hashimoto's thyroiditis, n | 25 / 15 | 9 / 33 | – | <0.001 |
 | CAS 0 / 1 / 2 / 3, n | 12 / 20 / 6 / 2 | – | – | – |
 | Eyelid retraction, patients (eyes) | 24 (30/80) | 0 | 0 | <0.001 |
+| Levothyroxine, n | 16 | 17 | 0 | – |
+| Methimazole, n | 13 | 13 | 0 | – |
+| Previous thyroidectomy, n | 11 | 0 | 0 | – |
+| Radioactive iodine therapy, n | 1 | 0 | 0 | – |
+| Diplopia, n | 13 | 0 | 0 | – |
 | Hertel, mm, mean ± SD | 19.2 ± 1.8 | 16.7 ± 1.4 | 16.2 ± 1.5 | <0.001ᵇ |
 | Palpebral fissure width, mm, mean ± SD | 11.2 ± 1.7 | 9.4 ± 1.2 | 9.7 ± 1.6 | <0.001ᵇ |
 
-AITD, autoimmune thyroid disease; CAS, Clinical Activity Score; TO, thyroid orbitopathy. Age was missing for one participant per group, smoking for one control and selenium status for one TO patient. Eye-level variables are the mean of both eyes. ᵃ TO > controls (Bonferroni *P* = 0.001); other pairs not significant. ᵇ TO > AITD and controls (both *P* < 0.001); AITD vs controls not significant. [AUTHOR: confirm that sex code 1 denotes female, and add thyroid medication, thyroidectomy (TO 11, AITD 0), radioactive iodine (TO 1) and diplopia (TO 13) if they are to be reported.]
+AITD, autoimmune thyroid disease; CAS, Clinical Activity Score; TO, thyroid orbitopathy. Age was missing for one participant per group, smoking for one control and selenium status for one TO patient. Eye-level variables are the mean of both eyes. ᵃ TO > controls (Bonferroni *P* = 0.001); other pairs not significant. ᵇ TO > AITD and controls (both *P* < 0.001); AITD vs controls not significant. Treatment and diplopia data were taken from clinical records.
 
 ### 3.2. Ocular surface
 
@@ -99,12 +106,6 @@ OSDI scores increased from controls to AITD without orbitopathy to TO, and all p
 Schirmer values did not differ between groups. Median NIBUT was lower in both thyroid groups than in controls, but the difference was not significant at participant level (*P* = 0.083) or after adjustment (Table 3). Older age was independently associated with shorter NIBUT (−0.11 s per year; 95% CI −0.19 to −0.03).
 
 Meibomian gland loss was greater in TO (26.7% ± 6.9%) than in AITD without orbitopathy (22.5% ± 7.8%) and controls (20.0% ± 7.3%) (*P* < 0.001; Fig. 2). The adjusted excess was 6.1 percentage points compared with controls and 4.4 compared with AITD. The AITD group did not differ from controls (1.7; 95% CI −2.2 to 5.5). Grade 2 or 3 gland loss was present in 32 of 62 TO eyes (51.6%), 20 of 62 AITD eyes (32.3%) and 14 of 60 control eyes (23.3%).
-
-### 3.3. Blinking
-
-Blink rate did not differ significantly between groups at participant level (*P* = 0.23); after adjustment it was 3.8 blinks/min higher in TO than in controls (95% CI 0.1–7.5; *P* = 0.046), but the overall group effect remained non-significant (*P* = 0.13).
-
-Incomplete blinking differed clearly between groups. The number of incomplete blinks per minute was 5.9 ± 4.7 in TO, 3.7 ± 3.4 in AITD and 2.3 ± 2.5 in controls (*P* < 0.001), and IBR was 41.5% ± 24.8%, 28.3% ± 23.6% and 18.0% ± 16.6%, respectively (*P* < 0.001; Table 2). After adjustment for age and sex, IBR was 19.8 points higher in TO than in controls (95% CI 9.0–30.6; *P* < 0.001) and 11.9 points higher than in AITD (1.7–22.0; *P* = 0.022), whereas AITD did not differ significantly from controls (7.9; −2.5 to 18.4; *P* = 0.14) (Table 3). Inter-eye intraclass correlation was 0.68 for IBR and 0.51 for meibomian gland loss.
 
 **Table 2.** Ocular surface and blink parameters (participant level)
 
@@ -120,6 +121,12 @@ Incomplete blinking differed clearly between groups. The number of incomplete bl
 | Oxford grade ≥1 in either eye, n (%) | 12 (30.0) | 3 (7.1) | 0 (0) | <0.001 | – |
 
 Values are mean ± SD and median [interquartile range]; eye-level variables are the mean of both eyes. Participants with data: OSDI 39/41/35, Schirmer 39/40/30, NIBUT 39/40/35, meibography 34/33/31, all other variables 40/42/36. ᵃ Kruskal–Wallis or χ² test. ᵇ Mann–Whitney *U* with Bonferroni correction, shown when the overall test was significant.
+
+### 3.3. Blinking
+
+Blink rate did not differ significantly between groups at participant level (*P* = 0.23); after adjustment it was 3.8 blinks/min higher in TO than in controls (95% CI 0.1–7.5; *P* = 0.046), but the overall group effect remained non-significant (*P* = 0.13).
+
+Incomplete blinking differed clearly between groups. The number of incomplete blinks per minute was 5.9 ± 4.7 in TO, 3.7 ± 3.4 in AITD and 2.3 ± 2.5 in controls (*P* < 0.001), and IBR was 41.5% ± 24.8%, 28.3% ± 23.6% and 18.0% ± 16.6%, respectively (*P* < 0.001; Table 2). After adjustment for age and sex, IBR was 19.8 points higher in TO than in controls (95% CI 9.0–30.6; *P* < 0.001) and 11.9 points higher than in AITD (1.7–22.0; *P* = 0.022), whereas AITD did not differ significantly from controls (7.9; −2.5 to 18.4; *P* = 0.14) (Table 3). Inter-eye intraclass correlation was 0.68 for IBR and 0.51 for meibomian gland loss.
 
 **Table 3.** Group differences adjusted for age and sex
 
@@ -195,7 +202,7 @@ Patients with autoimmune thyroid disease reported more ocular surface symptoms t
 
 **Figure 1.** Spontaneous blinking recorded at 240 frames per second in a healthy control participant. (A) Complete blink: the upper eyelid margin meets the lower eyelid margin. (B) Incomplete blink in the same participant: the upper eyelid does not reach the lower eyelid, leaving part of the cornea exposed (arrow).
 
-**Figure 2.** Infrared meibography of an everted upper eyelid acquired with the Sirius topographer (CSO, Florence, Italy). (A) Original image. (B) Same image after automated analysis; the green area indicates the preserved gland area and the red area indicates gland loss (grade 1; area of loss 18.2%). [AUTHOR: state the participant's group.]
+**Figure 2.** Infrared meibography of an everted upper eyelid acquired with the Sirius topographer (CSO, Florence, Italy). (A) Original image. (B) Same image after automated analysis; the green area indicates the preserved gland area and the red area indicates gland loss (grade 1; area of loss 18.2%). The images are from a patient in the thyroid orbitopathy group.
 
 **Figure 3.** Incomplete blinking, meibomian gland loss and eyelid retraction. (A) Incomplete blink ratio versus meibomian gland loss in 180 eyes with meibography and complete covariate data, by group. The line shows the fitted association from a linear mixed model with a random intercept per participant, adjusted for group, age and sex. (B, C) Incomplete blink ratio (B) and meibomian gland loss (C) in eyes of patients with thyroid orbitopathy, with and without upper eyelid retraction. Horizontal bars indicate medians and vertical bars interquartile ranges. *P* values are from age-adjusted mixed models. AITD, autoimmune thyroid disease; TO, thyroid orbitopathy; IBR, incomplete blink ratio.
 
@@ -245,3 +252,4 @@ Patients with autoimmune thyroid disease reported more ocular surface symptoms t
 40. Mitchell T, Murri M, Pflugfelder SC. Video viewing blink rate in normal and dry eyes. Eye Contact Lens. 2021;47(8):442-4. doi:10.1097/ICL.0000000000000791
 41. Garcia D, Pinto CT, Barbosa JC, Cruz AA. Spontaneous interblink time distributions in patients with Graves' orbitopathy and normal subjects. Invest Ophthalmol Vis Sci. 2011;52(6):3419-24. doi:10.1167/iovs.10-7060
 42. Arita R, Fukuoka S, Matsumoto R, Kaido M. Effects of blinking exercises on palpebral fissure height and tear film parameters. Ocul Surf. 2025;36:237-43. doi:10.1016/j.jtos.2025.02.003
+43. Kabakci AK, Cakir DC, Comez AT. The relationship between composite inflammatory indices and dry eye in Hashimoto's disease-induced hypothyroid patients. Biomedicines. 2025;13(11):2675. doi:10.3390/biomedicines13112675
